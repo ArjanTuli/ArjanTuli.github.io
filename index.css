@@ -1,0 +1,8 @@
+body {
+  background-image: url(./Images/logo1.JPG);
+  background-repeat: no-repeat;
+  background-size: 100vw 80vw;
+}
+h1 {
+  color: blueviolet;
+}

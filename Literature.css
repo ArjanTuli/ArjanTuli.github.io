@@ -1,0 +1,31 @@
+#l a {
+  text-decoration: none;
+  font-size: 29px;
+  margin-right: 6vw;
+  color: white;
+  font-weight: bold;
+  text-shadow: black 1px 2px 2px;
+}
+#l {
+  margin-left: 20vw;
+}
+#o {
+  text-decoration: currentColor;
+  font-style: italic;
+  margin-left: -19vw;
+}
+#no {
+  text-decoration: currentColor;
+  font-style: italic;
+  margin-left: -15vw;
+}
+#ni {
+  text-decoration: currentColor;
+  font-style: italic;
+  margin-left: -15vw;
+}
+#d {
+  font-weight: normal;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 17vw;
+}
