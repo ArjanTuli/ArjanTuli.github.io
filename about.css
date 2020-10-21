@@ -1,7 +1,5 @@
 body {
-  background-image: url(./Images/Aboutme.Jpg);
-  background-repeat: repeat;
-  background-size: 7vw 7vw;
+  background-image: url(./Images/About/me.Jpg);
 }
 h3 {
   color: black;
